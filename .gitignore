@@ -2,9 +2,12 @@
 .idea/
 *.iml
 *.iws
-
 out/
+
+#aspectjml
 bin/
 isc/
 crossref/
+
+#java
 *.class
