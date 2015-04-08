@@ -4,6 +4,9 @@
 *.iws
 out/
 
+#vagrant
+.vagrant/
+
 #aspectjml
 bin/
 isc/
