@@ -10,6 +10,6 @@ public class Main {
     }
     
     public static void main(String[] args) {
-	new Main().add(1,1);
+	new Main().add(1,0);
     }
 }
